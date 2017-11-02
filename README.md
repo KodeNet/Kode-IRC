@@ -1,7 +1,9 @@
 # KodeNet IRC: TLS
-Connecting to Kode IRC with `irssi` or `weechat`
+Connect securely to Kode IRC with `irssi` or `weechat`
 
-## irssi
+>>> TLS connections are accepted on port 6697
+
+## Irssi
 `/server add -auto -tls -tls_verify -network kodenet -port 6697 irc.koderoot.net`
 
 ### client certificates (optional)
