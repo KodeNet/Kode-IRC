@@ -1,5 +1,5 @@
 # KodeNet IRC: TLS
-Connect securely to Kode IRC with `irssi` or `weechat`
+Connect securely to Kode IRC with `irssi`, `weechat` and [many others](https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients).
 
 > TLS connections are accepted on port 6697
 
