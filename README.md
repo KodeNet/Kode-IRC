@@ -27,3 +27,6 @@ rm kodenet.crt kodenet.key
 
 ### macOS
 `/set weechat.network.gnutls_ca_file "/usr/local/etc/openssl/cert.pem"`
+
+## Web Client
+[irc.koderoot.net](https://irc.koderoot.net)
